@@ -5,11 +5,11 @@ import confetti from "canvas-confetti";
 
 const messages = [
   "Gracias por quedarse cuándo era más fácil irse",
-  "Ustedes eligieron quedarse, y eso vale oro.",
-  "No eran mi familia, pero se volvieron parte de ella.",
+  "Cuándo más dolía, ahí estaban ustedes",
+  "No saben lo que significó no quedarme solo",
   "En los momentos duros, ustedes han sido luz.",
-  "Gracias por no seguir grupos, sino corazones.",
-  "Lo fácil era alejarse, lo valiente fue quedarse.",
+  "Ustedes no tomaron lados, tomaron mi mano",
+  "Ustedes no preguntaron, simplemente estuvieron",
   "Y ahora viene algo que no sabían 😲"
 ];
 
